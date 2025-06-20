@@ -5,7 +5,6 @@ import RearWheel from '@/components/RearWheel.vue';
 
 <template>
 <h1>Hello Vue!</h1>
-    <h1>Hello Vue!</h1>
     <FrontWheel></FrontWheel>
     <RearWheel></RearWheel>
 
